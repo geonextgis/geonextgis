@@ -1,4 +1,5 @@
 ### Hi, I'm Krish! 👋🌏
+
 I am a modern GIS enthusiast with extensive expertise in GIS and remote sensing. With an ever-growing interest in spatial data analysis and visualization, I strive to learn new technologies and tools to understand the world better through data. I enjoy working on projects that involve the integration of geospatial technologies with machine learning and data science to discover insights from spatial data and develop new analytical tools to solve environmental and social issues.
 
 I love collaborating with others on projects related to geography, remote sensing and GIS, and I am always keen to learn and share my knowledge.

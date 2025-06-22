@@ -10,7 +10,7 @@
 🛰️ Geospatial Data Scientist | 🌾 AI for Agriculture | 🌍 Remote Sensing & Earth Observation Enthusiast  
 </p>
 
-<p align="center">
+<p align="justify">
 Krishnagopal Halder is a Research Scientist at the Leibniz Centre for Agricultural Landscape Research (ZALF) in Müncheberg, Germany. He is part of the “Multi-Scale Modelling and Forecasting” working group under the Leibniz-Lab Systemic Sustainability (LL SYSTAIN) project, focusing on the intersections of biodiversity, climate, agriculture, and food systems. His research integrates geospatial data science, remote sensing, and machine learning to develop robust and scalable models for agricultural monitoring and environmental assessment.
 
 Krishnagopal’s work leverages cloud computing platforms such as Google Earth Engine, as well as open-source ML/DL frameworks including PyTorch and Scikit-Learn. He has contributed to several international projects such as SynPAI and AgML, which aim to bridge process-based and data-driven modeling approaches for crop yield prediction and sustainability analysis. He is also a published researcher in Q1-ranked journals on topics like flood mapping, landslide prediction, and groundwater assessment.

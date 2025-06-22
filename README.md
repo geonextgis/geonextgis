@@ -11,14 +11,9 @@
 </p>
 
 <p align="center">
-Currently a Research Scientist at <strong>ZALF, Germany</strong> 🇩🇪,  
-I'm passionate about combining geospatial analytics, AI/ML, and cloud computing to address global sustainability challenges — especially in agriculture, climate, and food systems.
-</p>
+Krishnagopal Halder is a Research Scientist at the Leibniz Centre for Agricultural Landscape Research (ZALF) in Müncheberg, Germany. He is part of the “Multi-Scale Modelling and Forecasting” working group under the Leibniz-Lab Systemic Sustainability (LL SYSTAIN) project, focusing on the intersections of biodiversity, climate, agriculture, and food systems. His research integrates geospatial data science, remote sensing, and machine learning to develop robust and scalable models for agricultural monitoring and environmental assessment.
 
-<p align="center">
-🛠️ Working on <a href="https://synpaim.wordpress.com/news/" target="_blank">SynPAI</a>, <a href="https://www.agml.org/" target="_blank">AgML</a>, and <a href="#">LL SYSTAIN</a> projects  
-💡 Google Earth Engine | PyTorch | Remote Sensing | ML | Environmental Intelligence  
-🧠 Occasional blog writer on <a href="https://medium.com/@geonextgis" target="_blank">Medium</a>  
+Krishnagopal’s work leverages cloud computing platforms such as Google Earth Engine, as well as open-source ML/DL frameworks including PyTorch and Scikit-Learn. He has contributed to several international projects such as SynPAI and AgML, which aim to bridge process-based and data-driven modeling approaches for crop yield prediction and sustainability analysis. He is also a published researcher in Q1-ranked journals on topics like flood mapping, landslide prediction, and groundwater assessment.
 </p>
 
 ---
@@ -36,22 +31,13 @@ I'm passionate about combining geospatial analytics, AI/ML, and cloud computing 
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geonextgis&layout=compact&theme=aura&langs_count=10" />
 </p>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geonextgis/geonextgis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geonextgis/geonextgis/output/github-snake.svg" />
-  <p align="center">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/geonextgis/geonextgis/output/github-snake.svg" />
-  </p>
-</picture>
-
 ---
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,java,r,js,sql,c" /><br>
-<img src="https://skillicons.dev/icons?i=github,git,postgis,docker,tensorflow,pytorch" /><br>
-<img src="https://skillicons.dev/icons?i=linux,figma,photoshop,illustrator" /><br>
+<img src="https://skillicons.dev/icons?i=py,java,r,js,sql" /><br>
+<img src="https://skillicons.dev/icons?i=github,git,postgis,docker,pytorch,tensorflow" /><br>
+<img src="https://skillicons.dev/icons?i=linux,photoshop,illustrator" /><br>
 
 🧭 Also proficient in: Google Earth Engine, ArcGIS, QGIS, Scikit-learn, Remote Sensing Analysis, Machine Learning, Deep Learning, Feature Engineering
 

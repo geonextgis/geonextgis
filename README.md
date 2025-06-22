@@ -1,49 +1,70 @@
-<!-- GitHub Profile README -->
+## Krishnagopal Halder
 
-<!-- Banner -->
-<img src="github-banner.jpg" alt="GitHub Banner" width="100%" />
+[![GitHub Followers](https://img.shields.io/github/followers/geonextgis?style=social)](https://github.com/geonextgis?tab=followers)
+[![Medium](https://img.shields.io/badge/Blog-Medium-black?logo=medium)](https://medium.com/@geonextgis)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey?logo=googlescholar)](https://scholar.google.com/citations?user=b02pfFMAAAAJ&hl=en)
+[![ZALF](https://img.shields.io/badge/ZALF-Researcher-green)](https://www.zalf.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/krishnagopal-halder)
+[![Portfolio](https://img.shields.io/badge/Map-Portfolio-orange)](https://maps.app.goo.gl/JpcrK2GBHM3HWJqTA)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=geonextgis.geonextgis)
 
-<!-- Intro -->
-<h1 align="center">Hi there! 👋 I'm Krishnagopal Halder</h1>
+I’m a **Research Scientist** at the **Leibniz Centre for Agricultural Landscape Research (ZALF)** in Germany, working at the intersection of geospatial analytics, Earth observation, and AI. My research involves:
 
-<p align="center">
-🛰️ Geospatial Data Scientist | 🌾 AI for Agriculture | 🌍 Remote Sensing & Earth Observation Enthusiast  
-</p>
-
-<p align="center">
-Currently a Research Scientist at <strong>ZALF, Germany</strong> 🇩🇪,  
-I'm passionate about combining geospatial analytics, AI/ML, and cloud computing to address global sustainability challenges — especially in agriculture, climate, and food systems.
-</p>
-
-<p align="center">
-🛠️ Working on <a href="https://synpaim.wordpress.com/news/" target="_blank">SynPAI</a>, <a href="https://www.agml.org/" target="_blank">AgML</a>, and <a href="#">LL SYSTAIN</a> projects  
-💡 Google Earth Engine | PyTorch | Remote Sensing | ML | Environmental Intelligence  
-🧠 Occasional blog writer on <a href="https://medium.com/@geonextgis" target="_blank">Medium</a>  
-</p>
+- 🌾 Remote sensing & ML/DL for crop yield and land surface modelling  
+- 🌍 Sustainability science, environmental data analysis  
+- ☁️ Google Earth Engine, cloud computing, and open-source tools for EO  
 
 ---
 
-## 🔬 Ongoing Projects
-- 🌱 **LL SYSTAIN** – Systemic Sustainability: Biodiversity, Climate, and Agriculture Intersections  
-- 🧠 **SynPAI** – Synergizing Process-based and ML Models for Crop Yield Prediction  
-- 🌾 **AgML** – Machine Learning for Agricultural Modeling  
+### 🚀 Featured Projects
+
+- 🔄 [**SynPAI**](https://synpaim.wordpress.com/news/) – Synergizing ML and process-based models for crop prediction  
+- 🌾 [**AgML**](https://www.agml.org/) – Machine Learning for Agricultural Modeling  
+- 🌱 LL SYSTAIN – Systemic sustainability in biodiversity, climate, and food systems  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=geonextgis&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geonextgis&layout=compact&theme=aura&langs_count=10" />
-</p>
+### 📖 Publications (Selected)
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geonextgis/geonextgis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geonextgis/geonextgis/output/github-snake.svg" />
-  <p align="center">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/geonextgis/geonextgis/output/github-snake.svg" />
-  </p>
-</picture>
+- Halder et al. (2025). *Landslide susceptibility via meta-learning*. [Scientific Reports](https://www.nature.com/articles/s41598-025-87587-3)  
+- Halder et al. (2024). *Flood inventory with SAR and ML*. [GNH Risk](https://doi.org/10.1080/19475705.2024.2409202)  
+- Halder et al. (2024). *Groundwater potential mapping*. [Environmental Sciences Europe](https://link.springer.com/article/10.1186/s12302-024-00981-y)  
+
+---
+
+### ✍️ Latest Blog Posts
+
+<!-- BLOG:START -->
+- [Building a reproducible pipeline for crop yield prediction with ML and EO data](https://medium.com/@geonextgis)
+- [Visualizing agricultural trends using Google Earth Engine](https://medium.com/@geonextgis)
+- [My journey into geospatial data science](https://medium.com/@geonextgis)
+<!-- BLOG:END -->
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geonextgis&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geonextgis&layout=compact&theme=tokyonight)
+
+---
+
+### 🧠 Skills
+
+- **Languages**: Python, R, Java, JavaScript, SQL, C  
+- **Tools**: GEE, PostGIS, Git, TensorFlow, PyTorch, Scikit-learn  
+- **Software**: ArcGIS Pro, QGIS, Adobe Illustrator  
+- **Methods**: ML, DL, Geospatial Modeling, Remote Sensing  
+
+---
+
+### 📬 Connect with Me
+
+📫 Email: [krishnagopal.halder@zalf.de](mailto:krishnagopal.halder@zalf.de)  
+🌐 Website: Coming soon!  
+📍 Based in Müncheberg, Brandenburg, Germany
+
+---
 
 ---
 

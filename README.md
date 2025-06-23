@@ -35,7 +35,7 @@ Krishnagopal’s work leverages cloud computing platforms such as Google Earth E
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,java,r,js,sql,linux" /><br>
+<img src="https://skillicons.dev/icons?i=py,java,r,js,linux" /><br>
 <img src="https://skillicons.dev/icons?i=anaconda,github,git,docker,sklearn,pytorch" /><br>
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator" /><br>
 

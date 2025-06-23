@@ -10,13 +10,28 @@
 🛰️ Geospatial Data Scientist | 🌾 AI for Agriculture | 🌍 Remote Sensing & Earth Observation Enthusiast  
 </p>
 
-[![GitHub Followers](https://img.shields.io/github/followers/geonextgis?style=social)](https://github.com/geonextgis?tab=followers)
-[![Medium](https://img.shields.io/badge/Blog-Medium-black?logo=medium)](https://medium.com/@geonextgis)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey?logo=googlescholar)](https://scholar.google.com/citations?user=b02pfFMAAAAJ&hl=en)
-[![ZALF](https://img.shields.io/badge/ZALF-Researcher-green)](https://www.zalf.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/krishnagopal-halder)
-[![Portfolio](https://img.shields.io/badge/Map-Portfolio-orange)](https://maps.app.goo.gl/JpcrK2GBHM3HWJqTA)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=geonextgis.geonextgis)
+<p align="center">
+  <a href="https://github.com/geonextgis?tab=followers">
+    <img src="https://img.shields.io/github/followers/geonextgis?style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://medium.com/@geonextgis">
+    <img src="https://img.shields.io/badge/Blog-Medium-black?logo=medium" alt="Medium" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=b02pfFMAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google-Scholar-lightgrey?logo=googlescholar" alt="Google Scholar" />
+  </a>
+  <a href="https://www.zalf.de">
+    <img src="https://img.shields.io/badge/ZALF-Researcher-green" alt="ZALF" />
+  </a>
+  <a href="https://www.linkedin.com/in/krishnagopal-halder">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://maps.app.goo.gl/JpcrK2GBHM3HWJqTA">
+    <img src="https://img.shields.io/badge/Map-Portfolio-orange" alt="Portfolio" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=geonextgis.geonextgis" alt="Visitor Badge" />
+</p>
+
 
 <p align="justify">
 Krishnagopal Halder is a Research Scientist at the Leibniz Centre for Agricultural Landscape Research (ZALF) in Müncheberg, Germany. He is part of the “Multi-Scale Modelling and Forecasting” working group under the Leibniz-Lab Systemic Sustainability (LL SYSTAIN) project, focusing on the intersections of biodiversity, climate, agriculture, and food systems. His research integrates geospatial data science, remote sensing, and machine learning to develop robust and scalable models for agricultural monitoring and environmental assessment.

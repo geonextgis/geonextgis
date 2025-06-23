@@ -35,9 +35,9 @@ Krishnagopal’s work leverages cloud computing platforms such as Google Earth E
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,java,r,js,sql" /><br>
-<img src="https://skillicons.dev/icons?i=github,git,postgis,docker,pytorch,tensorflow" /><br>
-<img src="https://skillicons.dev/icons?i=linux,photoshop,illustrator" /><br>
+<img src="https://skillicons.dev/icons?i=py,java,r,js,sql,linux" /><br>
+<img src="https://skillicons.dev/icons?i=anaconda,github,git,docker,sklearn,pytorch" /><br>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" /><br>
 
 🧭 Also proficient in: Google Earth Engine, ArcGIS, QGIS, Scikit-learn, Remote Sensing Analysis, Machine Learning, Deep Learning, Feature Engineering
 
@@ -76,7 +76,7 @@ Krishnagopal’s work leverages cloud computing platforms such as Google Earth E
   </a>
   &nbsp;
   <a href="https://scholar.google.com/citations?user=b02pfFMAAAAJ&hl=en" target="_blank">
-    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg" alt="Google Scholar" />
+    <img width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/08/google-scholar-logo-freelogovectors.net_.png" alt="Google Scholar" />
   </a>
 </p>
 

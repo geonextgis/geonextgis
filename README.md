@@ -102,7 +102,3 @@ Krishnagopal’s work leverages cloud computing platforms such as Google Earth E
     <img width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/08/google-scholar-logo-freelogovectors.net_.png" alt="Google Scholar" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=geonextgis.geonextgis" alt="Visitor Badge" />
-</p>
